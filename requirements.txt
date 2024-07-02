@@ -1,0 +1,13 @@
+# local package
+plot_utils.py
+
+# external requirements
+tensorflow<=15.0
+numpy
+xarray
+scipy
+matplotlib
+pandas
+netCDF4
+cartopy
+xesmf
