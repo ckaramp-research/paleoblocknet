@@ -17,7 +17,8 @@ PaleoBlockNet is a Deep Learning (DL) model that infers summertime (JJA) frequen
 
 ## Interactive web interface for PaleoBlockNet: 
 
-If you are interested in exploring PaleoBlockNet's reconstructions, an interactive web interface can be accessed at https:www2.hawaii.edu:~ckaramp/paleoblocknet 
+If you are interested in exploring PaleoBlockNet's reconstructions, an interactive web interface can be accessed at 
+https://www2.hawaii.edu:~ckaramp/paleoblocknet 
 
 ## Reference:
 
@@ -25,4 +26,5 @@ Karamperidou, C., Extracting Paleoweather from Paleoclimate: A Deep Learning Rec
 
 ## Contact:
 Christina Karamperidou - ckaramp@hawaii.edu 
+
 Research Group: https://www2.hawaii.edu/~ckaramp
