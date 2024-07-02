@@ -11,9 +11,18 @@ Future changes in atmospheric blocking due to greenhouse-gas forcing are highly 
 
 Paleoclimate proxy records extend observational records to help reduce these uncertainties, but have low temporal resolution.
 
-How can we extract meaningful synoptic-scale signals from low-resolution paleoclimate records?
+**How can we extract meaningful synoptic-scale signals from low-resolution paleoclimate records?** 
 
 PaleoBlockNet is a Deep Learning (DL) model that infers summertime (JJA) frequencies of blocked days from seasonal surface temperature fields.
 
-Reference:
+## Interactive web interface for PaleoBlockNet: 
+
+If you are interested in exploring PaleoBlockNet's reconstructions, an interactive web interface can be accessed at https:www2.hawaii.edu:~ckaramp/paleoblocknet 
+
+## Reference:
+
 Karamperidou, C., Extracting Paleoweather from Paleoclimate: A Deep Learning Reconstruction of Northern Hemisphere Summertime Atmospheric Blocking over the Last Millennium, Nature Communications Earth & Environment, in revision (2024)
+
+## Contact:
+Christina Karamperidou - ckaramp@hawaii.edu 
+Research Group: https://www2.hawaii.edu/~ckaramp
