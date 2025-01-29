@@ -22,7 +22,7 @@ https://www2.hawaii.edu/~ckaramp/paleoblocknet/
 
 ## Reference:
 
-Karamperidou, C., Extracting Paleoweather from Paleoclimate: A Deep Learning Reconstruction of Northern Hemisphere Summertime Atmospheric Blocking over the Last Millennium, Nature Communications Earth & Environment, in revision (2024)
+Karamperidou, C. Extracting paleoweather from paleoclimate through a deep learning reconstruction of Last Millennium atmospheric blocking. Commun Earth Environ 5, 535 (2024). https://doi-org.eres.library.manoa.hawaii.edu/10.1038/s43247-024-01687-y
 
 ## Contact:
 Christina Karamperidou - ckaramp@hawaii.edu 
